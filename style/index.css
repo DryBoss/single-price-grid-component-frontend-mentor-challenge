@@ -117,4 +117,12 @@ body {
   .buy {
     flex-direction: column;
   }
+  .pricing {
+    width: auto;
+    border-radius: 0;
+  }
+  .feature {
+    width: auto;
+    border-radius: 0 0 15px 15px;
+  }
 }
